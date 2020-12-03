@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(90, 90, 90);
+}
+
+
+#container{
+    background-color:rgb(27, 223, 180);
+    border:3px solid rgb(72, 247, 95);
+    height:250px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+
+h1{
+    color:aquamarine;
+    
+}
+
+p{
+    color:yellow;
+}
+
+label{
+    color:rgb(245, 65, 215);
+}
+
